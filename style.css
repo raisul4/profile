@@ -7,7 +7,8 @@
     background-position-y: right;
     background-position-x: 200%;
     background-size: 650px;
-    display: inline-block;
+    /* display: inline-block; */
+    margin: auto;
 }
 nav{
     /* border: 1px solid rgb(2, 2, 2); */
