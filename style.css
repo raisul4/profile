@@ -1,6 +1,6 @@
 .banner{
-    /* border: 1px solid rgb(9, 80, 233); */
-    height: 2250px;
+    border: 1px solid rgb(9, 80, 233);
+    height: 2287px;
     width: 868px ;
     background-image: url("./image/back.png");
     background-repeat: no-repeat;
